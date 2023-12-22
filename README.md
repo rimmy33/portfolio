@@ -1,4 +1,5 @@
-<img width="835" alt="image" src="https://github.com/rimmy33/portfolio/assets/105859719/c0b8ccc2-b649-40f5-b4c5-b8342cbd1c11"># portfolio
+# portfolio
+<img width="835" alt="image" src="https://github.com/rimmy33/portfolio/assets/105859719/c0b8ccc2-b649-40f5-b4c5-b8342cbd1c11">
 
 <img width="835" alt="image" src="https://github.com/rimmy33/portfolio/assets/105859719/2d7a418a-9419-4f91-b6c3-3d6b68943b2b">
 <img width="835" alt="image" src="https://github.com/rimmy33/portfolio/assets/105859719/a90a1daa-fcbb-41f3-b5a7-b2d76c159fa3">
